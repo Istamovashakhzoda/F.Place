@@ -235,3 +235,44 @@ section {
   font-size: 18px;
   cursor: pointer;
 }
+
+.cola_part {
+  display: flex;
+  justify-content: space-between;
+  width: 89%;
+}
+
+.left_cola {
+  margin-left: -90px;
+}
+
+.app_store {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 120px;
+}
+
+.img_side img {
+  width: 510px;
+  height: 490px;
+}
+
+.information_side h3 {
+  color: #ff9401;
+}
+
+.information_side h1 {
+  width: 420px;
+  font-size: 53px;
+  color: #615d5d;
+}
+
+.information_side p {
+  padding-top: 10px;
+  width: 360px;
+}
+
+.right_imb img {
+  margin-left: -80px;
+}
