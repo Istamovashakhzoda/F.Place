@@ -117,6 +117,7 @@ section {
 .main_features {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .features {
@@ -125,4 +126,48 @@ section {
 
 .right_img {
   margin-right: -65px;
+}
+
+.middle_features {
+  text-align: center;
+}
+
+.middle_features h3 {
+  font-size: 26px;
+  color: #ff9401;
+  margin: 20px;
+}
+
+.middle_features h1 {
+  font-size: 56px;
+}
+
+.boxs {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.box1 {
+  width: 220px;
+  height: 330px;
+}
+
+.box1 h4 {
+  margin: 10px 0;
+  font-size: 22px;
+}
+
+.recipes h3 {
+  text-align: center;
+  color: #ff9401;
+  font-size: 23px;
+}
+
+.start_recipes {
+  display: flex;
+  align-items: center;
+  margin-left: 455px;
+  font-size: 30px;
 }
