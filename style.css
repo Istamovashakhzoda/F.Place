@@ -171,3 +171,53 @@ section {
   margin-left: 455px;
   font-size: 30px;
 }
+
+.main_box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.child_box1 {
+  width: 380px;
+  height: 377px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.child_box2 {
+  width: 380px;
+  height: 377px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.child_box3 {
+  width: 380px;
+  height: 377px;
+  background-color: #ffffff;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.infor1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.flame button {
+  padding: 7px 15px;
+  border: none;
+  border-radius: 15px;
+}
+
+.icon_side h3 {
+  color: #818181;
+}
+
+.icon_side h2 {
+  color: #ff9401;
+}
